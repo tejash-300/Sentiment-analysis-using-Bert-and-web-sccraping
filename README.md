@@ -2,7 +2,7 @@
 This project scrapes Yelp reviews and analyzes sentiment using a BERT model (`nlptown/bert-base-multilingual-uncased-sentiment`). It assigns a score (1-5) to each review and stores results in a DataFrame. Built with Python, PyTorch, Transformers, BeautifulSoup, Pandas 🚀
 
 
-# **Sentiment Analysis of Yelp Reviews using BERT**
+
 
 ## **Overview**
 This project performs **sentiment analysis** on **Yelp reviews** using a pre-trained **BERT model** (`nlptown/bert-base-multilingual-uncased-sentiment`). The system scrapes reviews from a Yelp business page, processes them, and classifies sentiment on a **1 to 5 scale**.
