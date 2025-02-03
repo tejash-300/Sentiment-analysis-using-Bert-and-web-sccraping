@@ -86,11 +86,5 @@ print(df)
 - Fine-tune the **BERT model** for better accuracy
 - Develop a **dashboard** for visualizing sentiment trends  
 
----
-
-## **License**
-This project is **open-source** under the **MIT License**.  
-
----
 
 This README provides a structured and detailed guide for this GitHub repository. 🚀
