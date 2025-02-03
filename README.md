@@ -93,4 +93,4 @@ This project is **open-source** under the **MIT License**.
 
 ---
 
-This README provides a structured and detailed guide for thus GitHub repository. 🚀
+This README provides a structured and detailed guide for this GitHub repository. 🚀
